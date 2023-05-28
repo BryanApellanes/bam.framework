@@ -16,3 +16,6 @@
 [submodule "submodules/bam.data.repositories"]
 	path = submodules/bam.data.repositories
 	url = git@github.com:BryanApellanes/bam.data.repositories.git
+[submodule "submodules/bam.base.services"]
+	path = submodules/bam.base.services
+	url = git@github.com:BryanApellanes/bam.base.services.git
