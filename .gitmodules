@@ -10,3 +10,6 @@
 [submodule "submodules/bam.javascript"]
 	path = submodules/bam.javascript
 	url = git@github.com:BryanApellanes/bam.javascript.git
+[submodule "submodules/bam.data.schema"]
+	path = submodules/bam.data.schema
+	url = git@github.com:BryanApellanes/bam.data.schema.git
