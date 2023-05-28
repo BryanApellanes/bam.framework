@@ -7,3 +7,6 @@
 [submodule "submodules/bam.data"]
 	path = submodules/bam.data
 	url = git@github.com:BryanApellanes/bam.data.git
+[submodule "submodules/bam.javascript"]
+	path = submodules/bam.javascript
+	url = git@github.com:BryanApellanes/bam.javascript.git
