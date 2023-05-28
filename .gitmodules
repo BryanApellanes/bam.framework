@@ -1,0 +1,3 @@
+[submodule "submodules/bam.base"]
+	path = submodules/bam.base
+	url = git@github.com:BryanApellanes/bam.base.git
