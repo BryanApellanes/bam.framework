@@ -19,3 +19,9 @@
 [submodule "submodules/bam.base.services"]
 	path = submodules/bam.base.services
 	url = git@github.com:BryanApellanes/bam.base.services.git
+[submodule "submodules/bam.logging"]
+	path = submodules/bam.logging
+	url = git@github.com:BryanApellanes/bam.logging.git
+[submodule "submodules/bam.caching"]
+	path = submodules/bam.caching
+	url = git@github.com:BryanApellanes/bam.caching.git
