@@ -31,3 +31,9 @@
 [submodule "submodules/bam.logging.counters"]
 	path = submodules/bam.logging.counters
 	url = git@github.com:BryanApellanes/bam.logging.counters.git
+[submodule "submodules/bam.commandline"]
+	path = submodules/bam.commandline
+	url = git@github.com:BryanApellanes/bam.commandline.git
+[submodule "submodules/bam.testing"]
+	path = submodules/bam.testing
+	url = git@github.com:BryanApellanes/bam.testing.git
