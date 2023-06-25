@@ -25,3 +25,9 @@
 [submodule "submodules/bam.caching"]
 	path = submodules/bam.caching
 	url = git@github.com:BryanApellanes/bam.caching.git
+[submodule "submodules/bam.data.backup"]
+	path = submodules/bam.data.backup
+	url = git@github.com:BryanApellanes/bam.data.backup.git
+[submodule "submodules/bam.logging.counters"]
+	path = submodules/bam.logging.counters
+	url = git@github.com:BryanApellanes/bam.logging.counters.git
