@@ -46,3 +46,6 @@
 [submodule "submodules/bam.encryption"]
 	path = submodules/bam.encryption
 	url = git@github.com:BryanApellanes/bam.encryption.git
+[submodule "submodules/bam.generators"]
+	path = submodules/bam.generators
+	url = git@github.com:BryanApellanes/bam.generators.git
